@@ -10,7 +10,7 @@ aspect of the game space.
 
 ![Celestial Orrery, as seen from afar](CelestialOrrery.png)
 
-This mod follows the "Clockwork" and "Layers" theme of the jam, by recreating a 
+This mod follows the "Clockwork" and "Layers" themes of the jam, by recreating a 
 complex mechanical mechanism composed of multiple layers (including the animated
 gearbox at the bottom). However, this approach also introduces a popular 
 psychological question that explores the theme of "Layers" even further: 
