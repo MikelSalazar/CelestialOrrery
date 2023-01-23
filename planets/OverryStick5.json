@@ -1,0 +1,30 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "OrreryStick5",
+	"Base": {
+		"gravityVolumePriority": 0,
+		"surfaceGravity": 0,
+		"invulnerableToSun": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"trueAnomaly": 100,
+		"primaryBody": "Sun",
+		"isTidallyLocked": true,
+		"showOrbitLine": false
+	},
+	"Props": {
+		"details": [
+			{
+				"scale": 1410000,
+				"rename": "OrreryStick5",
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Stick5.prefab",
+				"keepLoaded": true,
+				"isRelativeToParent": true,
+				"position": { "x": -200, "y": 0, "z": 1000 },
+				"rotation": { "x": 270, "y": 80, "z": 0 }
+			}
+		]
+	}
+}

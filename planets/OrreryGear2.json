@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "OrreryGear2",
+	"Orbit": {
+		"isStatic": false,
+		"semiMajorAxis": 5250,
+		"primaryBody": "Orrery",
+		"siderealPeriod": 1,
+		"trueAnomaly": 3,
+		"showOrbitLine": false
+	},
+	"Props": {
+		"details": [
+			{
+				"scale": 2500000,
+				"rename": "OrreryGear2",
+				"keepLoaded": true,
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Gear.prefab",
+				"rotation": { "x": 90, "y": 0, "z": 0 }
+			}
+		]
+	}
+}

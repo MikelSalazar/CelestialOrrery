@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4117648570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ebac987b6cd16f73d3488273fdf27cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Axis.prefab
+- Assets/Models/Stick5.prefab
+- Assets/Models/Stick4.prefab
+- Assets/Models/Stick3.prefab
+- Assets/Models/Gear.prefab
+- Assets/Models/Stick1.prefab
+- Assets/Models/OrreryStickMaterial.mat
+- Assets/Models/Orbit.prefab
+- Assets/Models/Base.prefab
+- Assets/Models/OrreryStick.fbx
+- Assets/Models/OrreryGearMaterial.mat
+- Assets/Models/OrreryBaseMaterial.mat
+- Assets/Models/Stick6.prefab
+- Assets/Models/Stick2.prefab
+Dependencies: []

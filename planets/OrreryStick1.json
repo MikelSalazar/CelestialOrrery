@@ -1,0 +1,31 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "OrreryStick1",
+	"Base": {
+		"gravityVolumePriority": 0,
+		"surfaceGravity": 0,
+		"invulnerableToSun": true
+	},
+	"Orbit": {
+		"isMoon": true,
+		"semiMajorAxis": 5000,
+		"trueAnomaly": 125,
+		"primaryBody": "Sun",
+		"isTidallyLocked": true,
+		"showOrbitLine": false
+	},
+	"Props": {
+		"details": [
+			{
+				"scale": 1410000,
+				"rename": "OrreryStick1",
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Stick1.prefab",
+				"keepLoaded": true,
+				"isRelativeToParent": true,
+				"position": { "x": -150, "y": 0, "z": 150 },
+				"rotation": { "x": 270, "y": 55, "z": 0 }
+			}
+		]
+	}
+}

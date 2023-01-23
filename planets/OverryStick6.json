@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Interloper",
+	"Base": {
+		"gravityVolumePriority": 0,
+		"surfaceGravity": 0,
+		"invulnerableToSun": true
+	},
+	"Orbit": {
+		"showOrbitLine": false
+	},
+	"Props": {
+		"details": [
+			{
+				"scale": 1410000,
+				"rename": "OrreryStick6",
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Stick6.prefab",
+				"keepLoaded": true,
+				"isRelativeToParent": true,
+				"position": { "x": 0, "y": -300, "z": 0 },
+				"rotation": { "x": 0, "y": 0, "z": 90 },
+				"stretch": { "x": 1510000, "y": 1410000, "z": 1410000 }
+			}
+		]
+	}
+}

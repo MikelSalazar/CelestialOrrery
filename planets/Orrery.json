@@ -1,0 +1,41 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Orrery",
+	"Orbit": {
+		"isStatic": true,
+		"semiMajorAxis": 10000,
+		"primaryBody": "Sun",
+		"inclination": 90,
+		"axialTilt": 270,
+		"trueAnomaly": 270
+	},
+	"Props": {
+		"details": [
+			{
+				"rename": "OrreryBase",
+				"keepLoaded": true,
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Base.prefab",	
+				"position": { "x": 0, "y": 0, "z": 6500 },
+				"rotation": { "x": 0, "y": 0, "z": 41 },
+				"scale": 14000
+			},{
+				
+				"rename": "OrreryAxis",
+				"keepLoaded": true,
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Axis.prefab",
+				"position": { "x": 0, "y": 0, "z": -600 },
+				"stretch": {"x": 2200000, "y": 2200000, "z": 1420000}
+			}, {
+				"scale": 1420000,
+				"rename": "OrreryOrbitInterloper",
+				"keepLoaded": true,
+				"assetBundle": "planets/bundle/orrery",
+				"path": "Assets/Models/Orbit.prefab",	
+				"position": { "x": 400, "y": 1000, "z": 1000 },
+				"rotation": { "x": 0, "y": 0, "z": 0 }
+			}
+		]
+	}
+}
