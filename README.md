@@ -2,8 +2,8 @@
 
 Created as part of the [2023 New Horizons Jam](https://outerwildsmods.com/jam/), 
 this mod for Outer Wilds projects onto the actual environment of the game a
-version of the orrery (the model of the star system) seen in the observatory. 
-This makes it easier for the players to navigate through the star system 
+version of the orrery (the model of the solar system) seen in the observatory. 
+This makes it easier for the players to navigate through the system 
 (because there is a "ground" they can use to orientate themselves and to 
 estimate distances to the different planets), while also increasing the "toybox"
 aspect of the game space.
